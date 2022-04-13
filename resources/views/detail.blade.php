@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Supraun Product</title>
+        <title>Smart Pharmacy Product</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="/assets/medicine.png" />
         <!-- Bootstrap icons-->
@@ -24,7 +24,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand fw-bold" href="/">SupDoc</a>
+                <a class="navbar-brand fw-bold" href="/">SmaPha</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4 ml-auto">
@@ -119,7 +119,7 @@
         </section>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Supraun Product 2021</p></div>
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Smart Pharmacy Product 2022</p></div>
         </footer>
 
         <script type="text/javascript">

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" type="image/x-icon" href="assets/medicine.png" />
-    <title>Supraun Product - Dashboard</title>
+    <title>Smart Pharmacy Product - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -52,7 +52,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Supraun Product 2021</span>
+                        <span>Copyright &copy; Smart Pharmacy Product 2022</span>
                     </div>
                 </div>
             </footer>

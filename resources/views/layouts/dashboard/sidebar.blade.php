@@ -6,7 +6,7 @@
         <div class="sidebar-brand-icon">
             <i class="fas fa-laptop-medical"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Supraun Product</div>
+        <div class="sidebar-brand-text mx-3">Smart Pharmacy Product</div>
     </a>
 
     <!-- Divider -->

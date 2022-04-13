@@ -4,7 +4,7 @@
 <header class="bg-dark hero-image py-5">
     <div class="container px-4 px-lg-5 my-5">
         <div class="text-center text-white">
-            <h1 class="display-3 fw-bolder">Supraun Product</h1>
+            <h1 class="display-3 fw-bolder">Smart Pharmacy Product</h1>
             <p class="lead fw-normal text-white-50 mb-0 mt-3">Menyediakan Segala Macam Produk Kesehatan</p>
         </div>
     </div>
